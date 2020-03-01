@@ -1,4 +1,4 @@
-module g2rail.com/sdks
+module github.com/qinwenshi/sdks
 
 go 1.13
 
